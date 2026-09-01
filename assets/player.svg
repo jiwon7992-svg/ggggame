@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <ellipse cx="18" cy="42" rx="9" ry="12" fill="#ffb300" transform="rotate(-20 18 42)"/>
+  <ellipse cx="46" cy="42" rx="9" ry="12" fill="#ffb300" transform="rotate(20 46 42)"/>
+  <circle cx="32" cy="34" r="22" fill="#ffca28"/>
+  <ellipse cx="32" cy="46" rx="14" ry="8" fill="#ffb300" opacity="0.35"/>
+  <circle cx="23" cy="29" r="6" fill="#ffffff"/>
+  <circle cx="41" cy="29" r="6" fill="#ffffff"/>
+  <circle cx="24.5" cy="30.5" r="3" fill="#212121"/>
+  <circle cx="39.5" cy="30.5" r="3" fill="#212121"/>
+  <circle cx="26" cy="29" r="1" fill="#ffffff"/>
+  <circle cx="41" cy="29" r="1" fill="#ffffff"/>
+  <circle cx="17" cy="36" r="4" fill="#ff8a80" opacity="0.55"/>
+  <circle cx="47" cy="36" r="4" fill="#ff8a80" opacity="0.55"/>
+  <polygon points="26,39 38,39 32,48" fill="#fb8c00"/>
+  <polygon points="27,39 37,39 32,43" fill="#ef6c00"/>
+  <ellipse cx="24" cy="57" rx="5" ry="3" fill="#fb8c00"/>
+  <ellipse cx="40" cy="57" rx="5" ry="3" fill="#fb8c00"/>
+</svg>
